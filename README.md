@@ -35,13 +35,13 @@ This project helped me practise and apply the following Python fundamentals:
 1. Clone this repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone kbc_miniquiz.py
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd KBC-Python-Quiz
+   cd KBC-Python-MiniQuiz
    ```
 
 3. Run the Python file:
