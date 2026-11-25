@@ -47,7 +47,7 @@ This project helped me practise and apply the following Python fundamentals:
 3. Run the Python file:
 
    ```bash
-   python kbc.py
+   python kbc_miniquiz.py
    ```
 
 4. Enter your name and enjoy the game!
