@@ -35,7 +35,7 @@ This project helped me practise and apply the following Python fundamentals:
 1. Clone this repository:
 
    ```bash
-   git clone kbc_miniquiz.py
+   git clone https://github.com/Sumedhaa728/KBC-Python-MiniQuiz.git
    ```
 
 2. Navigate to the project directory:
