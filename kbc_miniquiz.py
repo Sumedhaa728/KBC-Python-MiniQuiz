@@ -56,18 +56,20 @@ for i in range(0,len(qna)):
             break
         print("Correct answer!")
         print("Lets move on to next question")
-
-        # logic for actual money earned
-        if(i==3):
-            money_earned=10000
-        elif(i==7):
-            money_earned=100000
-        elif(i==10):
-            money_earned=1000000
-        #money_earned = money[i]
-
     else:
         print(f"Its the wrong answer. You have won {money_earned} rupees")
         break
+
+    # logic for actual money earned
+    if(i==3):
+        money_earned=10000
+    elif(i==7):
+        money_earned=100000
+    elif(i==10):
+        money_earned=1000000
+
+# x----------------------------------------------------------------------------------------------x
+
+print("Thanks for playing!")
     
 
